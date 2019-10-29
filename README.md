@@ -49,7 +49,7 @@ sls deploy
 sls remove
 ```
 
-## Using the HTTP Endpoints
+### Using the HTTP Endpoints
 #### createCatalog
 ```
 curl -X POST https://<function-id>.execute-api.us-east-2.amazonaws.com/dev/catalog/create

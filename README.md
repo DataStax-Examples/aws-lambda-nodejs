@@ -1,4 +1,4 @@
-# Cassandra REST API with AWS Lambda functions in Node.js
+# Cassandra REST API with AWS Lambda in Node.js
 This example shows how to use [AWS Lambda](https://aws.amazon.com/lambda/) with the [Node.js DataStax Cassandra Driver](https://docs.datastax.com/en/developer/nodejs-driver/latest) to set up a basic REST API via HTTP Endpoints. The [Serverless Framework](https://serverless.com/) is used to facilitate the setup and deployment of the functions.
 
 Contributor(s): [Chris Splinter](https://github.com/csplinter)

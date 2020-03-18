@@ -28,7 +28,7 @@ sudo apt-get update
 sudo apt-get install -y openjdk-8-jdk-headless
 ```
 3. Install Cassandra
-Note if the mirror below is no longer working, visit the (downloads mirror)[https://www.apache.org/dyn/closer.lua/cassandra/3.11.6/apache-cassandra-3.11.6-bin.tar.gz] for a recent link
+Note if the mirror below is no longer working, visit the [downloads mirror](https://www.apache.org/dyn/closer.lua/cassandra/3.11.6/apache-cassandra-3.11.6-bin.tar.gz) for a recent link
 ```
 mkdir cassandra; wget -c http://mirror.cogentco.com/pub/apache/cassandra/3.11.6/apache-cassandra-3.11.6-bin.tar.gz -O - | tar -xz -C cassandra --strip-components=1
 ```
